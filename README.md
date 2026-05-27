@@ -7,7 +7,7 @@ A dark, desaturated theme for Arch Linux. Pure near-black backgrounds with muted
 ## Install
 
 ```bash
-omarchy-theme-install https://github.com/newone757/omarchy-sullen-fog-theme
+omarchy-theme-install https://github.com/newone757/sullen-fog-theme
 ```
 
 ## Colors
