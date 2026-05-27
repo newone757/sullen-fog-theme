@@ -36,4 +36,8 @@ omarchy-theme-install https://github.com/newone757/sullen-fog-theme
 | Preview | File |
 |---------|------|
 | Forest in fog | `a_forest_of_trees_with_fog.jpg` |
-| Soft frost     | `wallhaven-pneeln.jpg` |
+| Soft frost | `wallhaven-pneeln.jpg` |
+| Aerial fog over forest + road | `pexels-daniel-eliashevsky-30667400-13444099.jpg` |
+| Aerial fog over dense forest | `pexels-daniel-eliashevsky-30667400-13444097.jpg` |
+| Foggy treeline from below | `pexels-eberhardgross-31612214.jpg` |
+| Dark foggy forest hillside | `pexels-eberhardgross-1292115.jpg` |
